@@ -432,6 +432,7 @@ img {
 
 .add {
     display: flex;
+    align-items: baseline;
 }
 
 /* Address */
